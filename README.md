@@ -2,31 +2,17 @@
 
 # A List of Prediction Market Voices Worth Following
 
-> **Work in progress.** This list is still being built and isn't open for submissions yet. For the finished directory of prediction market tools, see [awesome-prediction-market-analytics-tools](https://github.com/Predictbook/awesome-prediction-market-analytics-tools).
+> **Work in progress.** This list is still being built and isn't open for submissions yet. For the finished directory of prediction market tools, see [awesome-prediction-market-toolkit](https://github.com/talhareltal/awesome-prediction-market-toolkit).
 
 ![Status](https://img.shields.io/badge/status-work%20in%20progress-orange.svg)
-[![Telegram](https://img.shields.io/badge/Telegram-Predictbook_Analysis-26A5E4?logo=telegram&logoColor=white)](https://t.me/PredictbookAnalysis)
 
-Maintained by [Predictbook](https://predictbook.co) — the people, platforms, and outlets worth following if you're actually trading or reading prediction markets, not just skimming headlines about them.
-
-Want all of the X accounts below in one place? Follow the [Predictbook Prediction Markets X List](https://x.com/i/lists/2029942645594693699) to get everyone at once.
+The people, platforms, and outlets worth following if you're actually trading or reading prediction markets, not just skimming headlines about them. Maintained by Tal Shmuel Harel: [X](https://x.com/TalHarelTal) · [LinkedIn](https://www.linkedin.com/in/talshmuelharel/)
 
 ## Contents
 
-- [⭐ Featured](#featured)
 - [🧠 Figures, Analysts & Traders](#figures-analysts--traders)
 - [🏛️ Platforms](#platforms)
 - [📰 News & Media](#news--media)
-
----
-
-<a name="featured"></a>
-
-## ⭐ Featured
-
-- [Predictbook](https://predictbook.co) — Independent market-mechanics analysis: odds, volume, and timing, not headlines. Follow: [X](https://x.com/predictbook) · [Telegram (analysis)](https://t.me/PredictbookAnalysis) · [Telegram (alerts)](https://t.me/Predictbook).
-
-[↑ Back to top](#top)
 
 ---
 
@@ -101,4 +87,4 @@ Want all of the X accounts below in one place? Follow the [Predictbook Predictio
 
 ---
 
-Missing an account, or something here is out of date? This list is maintained by [Predictbook](https://predictbook.co) — reach out and we'll add or fix it.
+Missing an account, or something here is out of date? Reach out on [X](https://x.com/TalHarelTal) and I'll add or fix it.
